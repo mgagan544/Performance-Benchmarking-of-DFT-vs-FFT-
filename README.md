@@ -78,7 +78,7 @@ It uses Nvidia SMI for gathering data about the **GPU** like memory usage , ener
 
 ##  Benchmark Results Obtained
 
-| N        | DFT Time (s) | CPU Time (s) | GPU Time (s) | DFT Memory (MB) | FFT CPU Memory (MB) | FFT GPU Memory (MB) |
+| N        | DFT Time (s) | FFT CPU Time (s) | FFT GPU Time (s) | DFT Memory (MB) | FFT CPU Memory (MB) | FFT GPU Memory (MB) |
 |----------|--------------|--------------|--------------|-----------------|-----------------|-----------------|
 | 256      | 0.0005        | 0.0077        | 0.0278        | 1.48             | 6.51             | 10.48           |
 | 512      | 0.0002        | 0.0001        | 0.0060        | 4.20             | 0.14             | 10.48           |
